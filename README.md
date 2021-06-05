@@ -1,1 +1,0 @@
-# Visiting websites using cypress .
