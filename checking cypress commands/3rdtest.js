@@ -25,7 +25,7 @@ describe('Mytestsuite',function()
     cy.visit('https://www.opencart.com/')
     cy.get('.btn-link').click().as('sign in')
     cy.get('#input-email').type('dikshakatna912@gmail.com').focus().blur()
-    cy.get('#input-password').type('diksha@12').debug()
+    cy.get('#input-password').type('used personal keys').debug()
     cy.get(':nth-child(1) > .hidden-xs').dblclick()
    cy.clearCookie('dikshakatna912@gmail.com')
 
