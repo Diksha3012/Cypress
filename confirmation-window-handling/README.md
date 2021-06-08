@@ -1,0 +1,1 @@
+# Confirmation window handling in cypress
