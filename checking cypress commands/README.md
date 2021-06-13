@@ -1,1 +1,1 @@
-# Executing cypress commands and verifying login of the website.
+## Executing cypress commands and verifying login of the website.
