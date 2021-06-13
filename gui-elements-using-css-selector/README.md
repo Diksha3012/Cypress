@@ -1,1 +1,1 @@
-## Selection of various GUI elements using CSS selector
+## Selection of various GUI elements using CSS selector.
