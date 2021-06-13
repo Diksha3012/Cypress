@@ -1,1 +1,1 @@
-## Entering data in google search engine and request it.
+## Entering data in google search engine and request it for processing.
