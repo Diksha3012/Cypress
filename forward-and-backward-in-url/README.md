@@ -1,1 +1,1 @@
-## Navigate back or forward in the url of respective website.
+## Navigate back or forward in the url of respective website in the browser.
