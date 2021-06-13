@@ -1,0 +1,1 @@
+## Creating custom command in cypress for the purpose of writing iterative codes.
